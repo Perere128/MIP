@@ -1,7 +1,7 @@
 {
    "room": "Move-it Portugal",
    "author": "Tugatron",
-   "icon": null,
+   "icon": "http://i.imgur.com/H2f7yl7.png",
    "css": "https://rawgit.com/Perere128/MIP/master/bot.css",
    "rules": {
       "allowAutorespond": true,
