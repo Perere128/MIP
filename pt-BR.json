@@ -35,16 +35,6 @@
         "Pegou o chinelo e te bateu",
         "Puxou cinta e deu na sua bunda :lenny:"
     ],
-        "mensagens": [
-        "/me 1º MSG",
-        "/me 2º MSG",
-        "/me 3º MSG",
-        "/me 4º MSG",
-        "/me 5º MSG",
-        "/me 6º MSG",
-        "/me 7º MSG",
-        "/me 8º MSG"
-    ],
     "balls": [
         "Sinais apontam que sim.",
         "Sim.",
@@ -90,9 +80,9 @@
     "datarestored": "Dados armazenados anteriormente recuperados com \u00eaxito.",
     "greyuser": "Apenas Seguran\u00e7as ou superiores podem usar o bot.",
     "bouncer": "O bot n\u00e3o pode mover pessoas na fila de espera quando usado por um bouncer.",
-    "online": "\/me %%BOTNAME%% %%VERSION%% online!",
-    "welcome": "Sai daqui, @%%NAME%%",
-    "welcomeback": "Esqueceu o que?, @%%NAME%%",
+    "online": "\/me %%BOTNAME%% online!",
+    "welcome": "Bem Vindo(a), @%%NAME%%",
+    "welcomeback": "Bem Vindo(a) de volta, @%%NAME%%",
     "songknown": "@%%NAME%%, essa m\u00fasica est\u00e1 no hist\u00f3rico.",
     "notavailable": "\/me @%%NAME%%, a m\u00fasica que voc\u00ea tocou n\u00e3o est\u00e1 dispon\u00edvel.",
     "timelimit": "@%%NAME%%, sua m\u00fasica tem dura\u00e7\u00e3o maior que %%MAXLENGTH%% minutos. Voc\u00ea precisa ter permiss\u00e3o para tocar m\u00fasicas longas.",
