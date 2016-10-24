@@ -2967,7 +2967,7 @@
                         basicBot.disconnectAPI();
                         kill();
                         setTimeout(function () {
-                            $.getScript('https://rawgit.com/Perere128/MIP/master/basicBot.js');
+                            $.getScript(basicBot.settings.scriptLink);
                         }, 2000);
                     }
                 }
