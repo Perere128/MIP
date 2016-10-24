@@ -253,8 +253,8 @@
             chatLink: "https://rawgit.com/Perere128/MIP/master/pt-BR.json",
             scriptLink: "https://rawgit.com/Perere128/MIP/master/basicBot.js",
             roomLock: false, // Requires an extension to re-load the script
-            startupCap: 1, // 1-200
-            startupVolume: 30, // 0-100
+            startupCap: 50, // 1-200
+            startupVolume: 10, // 0-100
             startupEmoji: true, // true or false
             autowoot: true,
             autoskip: false,
