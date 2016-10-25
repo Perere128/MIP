@@ -124,7 +124,7 @@
     "deletechat": "\/me [@%%NAME%%] O chat de %%USERNAME%% foi limpo.",
     "commandslink": "\/me Comandos do %%BOTNAME%%: %%LINK%%",
     "eatcookie": "\/me ama cookies.",
-    "nousercookie": "\/em N\u00e3o vejo %%NAME%% na sala. Vou comer esse cookie sozinho.",
+    "nousercookie": "\/em N\u00e3o vejo %%NAME%% na sala. Mais sobra!.",
     "selfcookie": "\/me @%%NAME%%, partilhar é ser feliz!",
     "cookie": "\/me @%%NAMETO%%, %%NAMEFROM%% %%COOKIE%%",
     "eatchingar": "\/me alguns morrem...outros ficam assim",
