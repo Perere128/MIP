@@ -50,7 +50,8 @@
     "timelimit": "@%%NAME%%, sua m\u00fasica tem dura\u00e7\u00e3o maior que %%MAXLENGTH%% minutos. Voc\u00ea precisa ter permiss\u00e3o para tocar m\u00fasicas longas.",
     "permissionownsong": "\/me :up: @%%NAME%% tem permiss\u00e3o para tocar m\u00fasica de pr\u00f3pria autoria!",
     "isblacklisted": "\/me Essa m\u00fasica est\u00e1 na lista negra %%BLACKLIST%%! Pulando m\u00fasica...",
-    "isopen": "\/me A roleta foi iniciada! Use !join para participar! (Jogo onde um participante aleat\u00f3rio \u00e9 movido para uma posi\u00e7\u00e3o aleat\u00f3ria na fila de espera)",
+    "isopen": "\/me @djs A roleta foi iniciada! Use !join para participar!",
+    "isopen2": "\/me (Jogo onde um participante aleatório movido para a posição 2 na fila de espera)",
     "winnerpicked": "\/me Um vencedor foi escolhido! @%%NAME%% ganhou a posi\u00e7\u00e3o %%POSITION%%.",
     "ball": "\/me A pergunta de %%NAME%% foi: \"%%QUESTION%%\" e a resposta de %%BOTNAME%% \u00e9: \"%%RESPONSE%%\"",
     "notghosting": "[%%NAME1%%] %%NAME2%% n\u00e3o virou fantasma.",
@@ -127,10 +128,6 @@
     "nousercookie": "\/em N\u00e3o vejo %%NAME%% na sala. Mais sobra!.",
     "selfcookie": "\/me @%%NAME%%, partilhar é ser feliz!",
     "cookie": "\/me @%%NAMETO%%, %%NAMEFROM%% %%COOKIE%%",
-    "eatchingar": "\/me alguns morrem...outros ficam assim",
-    "nouserchingar": "\/em N\u00e3o vejo %%NAME%% na sala. Com tanta gente bonita tinhas de escolher esta pessoa...",
-    "selfchingar": "\/me @%%NAME%%, ganda maluco!",
-    "chingar": "\/me @%%NAMETO%%, %%NAMEFROM%% %%CHINGAR%%",
     "eatbrigar": "\/me Gostas de porrada?.",
     "nouserbrigar": "\/em N\u00e3o vejo %%NAME%% na sala. Vai andar à porrada com outro ok?",
     "selfbrigar": "\/me @%%NAME%%, és tão forever alone quando nem sequer tens ninguém para andar à porrada...que triste!",
@@ -191,8 +188,8 @@
     "website": "\/me Visite nosso site: %%LINK%%",
     "youtube": "\/me [%%NAME%%] Inscreve-te no nosso canal: %%LINK%%",
     "songstatistics": "\/me %%ARTIST%% - %%TITLE%%: %%WOOTS%%W\/%%GRABS%%G\/%%MEHS%%M.",
-    "thorNotClose": "\/me @%%NAME%% voc\\u00ea n\\u00e3o \u00e9 digno nem de chegar perto do martelo.",
-    "thorcd": "\/me @%%NAME%% voc\u00ea pode tentar levantar o martelo em %%TIME%% minutos.",
-    "thorWorthy": "\/me @%%NAME%% voc\u00ea \u00e9 d\u00edgno do martelo :hammer:. Parab\u00e9ns!",
-    "thorNotWorthy": "\/me @%%NAME%% voc\u00ea n\u00e3o \u00e9 d\u00edgno do martelo."
+    "thorNotClose": "\/me @%%NAME%% você não é digno nem de chegar perto do martelo.",
+    "thorcd": "\/me @%%NAME%% você pode levantar o martelo em %%TIME%% minutos.",
+    "thorWorthy": "\/me @%%NAME%% você é digno do martelo :hammer:. Parabéns!",
+    "thorNotWorthy": "\/me @%%NAME%% você não é digno do martelo."
 }
